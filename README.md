@@ -1,7 +1,7 @@
 # CapstoneProject
 ## About
 
-My Capstone Project will be a website of photography with a description of my style of photography and my inspiration. It will consist of a Home/Index Page, a Gallery Page and an About Page.
+My Capstone Project will be a website of my photography with a description of my style of photography and my inspiration. It will consist of a Home/Index Page, a Gallery Page and an About Page.
 
 ## Built With
 
