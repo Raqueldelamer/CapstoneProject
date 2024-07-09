@@ -19,9 +19,7 @@ My Capstone Project will be a website of photography with a description of my st
 
 ## Wireframe
 
-An image of your wireframe (Required)
-![wireframe of index.html](img/wireframe-index.png)
-![wireframe of gallery.html](img/wireframe-gallery.png)
+The images of my Wireframes are attached to on https://codexacademy.moodlecloud.com/mod/assign/view.php?id=742
 
 ## Contact
 
