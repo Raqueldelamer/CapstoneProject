@@ -65,7 +65,7 @@ button {
   
  
   .carousel-inner img {
-    margin: auto ;
+    margin: auto;
   }
  
   .d-block {
@@ -80,6 +80,7 @@ button {
     text-align: center;
     font-size: 18px;
     font-family: Apple-Chancery;
+    text-wrap: break-word;
     border: 0px solid black;
     padding: 5px;
     background-color: silver;
@@ -89,8 +90,10 @@ button {
   .quote {
     width: 800px;
     display: flex;
-    text-align: center;
-    margin-left: 400px;
+    border: 1px solid black;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 15px;
   }
   
