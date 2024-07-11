@@ -6,12 +6,12 @@ nav {
 
 button {
     background-color: silver;
-    font-family: "Gill Sans", sans-serif;
+    font-family: 'Franklin Gothic Medium';
     font-weight: bold;
     text-align: center;
     border: 1px solid black;
     border-radius: 8px;
-    padding: 3px;
+    padding: 5px;
   }
   
   button:hover {
@@ -26,6 +26,7 @@ button {
   h1 {
     color: black;
     font-family: Apple-Chancery;
+    font-weight: bold;
     text-align: center;
     margin-top: 20px;
   }
@@ -49,6 +50,8 @@ button {
     padding-inline: 40px;
     margin-right: 100px;
     margin-left: 100px;
+    margin-top: 15px;
+   
   }
   
   img {
@@ -79,10 +82,11 @@ button {
   div {
     text-align: center;
     font-size: 18px;
-    font-family: Apple-Chancery;
-    text-wrap: break-word;
+    font-family: "Gill Sans", sans-serif;
     border: 0px solid black;
     padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: silver;
   
   }
@@ -92,6 +96,7 @@ button {
     display: flex;
     border: 1px solid black;
     text-align:center;
+    font-family: Apple-Chancery;
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
