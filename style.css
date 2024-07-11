@@ -1,0 +1,117 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 12px;
+}
+
+button {
+    background-color: silver;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 3px;
+  }
+  
+  button:hover {
+    background-color: lightgray;
+    color: black;
+  }
+  
+  body {
+    background-color: lightgray;
+  }
+  
+  h1 {
+    color: black;
+    font-family: Apple-Chancery;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+ 
+  h3 {
+    font-family: Apple-Chancery;
+    text-align: center;
+  }
+  
+  .photographers {
+    column-count: 1;
+    column-gap: 10px;
+  
+  }
+  
+  p {
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    font-size: 18px;
+    padding-inline: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+  img {
+  
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 5px;
+    
+  }
+  
+  img:hover {
+    box-shadow: 0 0 3px 2px rgba(0, 140, 186, 0.5);
+  }
+  
+ 
+  .carousel-inner img {
+    margin: auto ;
+  }
+ 
+  .d-block {
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    
+  }
+ 
+ 
+  div {
+    text-align: center;
+    font-size: 18px;
+    font-family: Apple-Chancery;
+    border: 0px solid black;
+    padding: 5px;
+    background-color: silver;
+  
+  }
+
+  .quote {
+    width: 800px;
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 15px;
+  }
+  
+  .flex-container {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    margin-bottom: 50px;
+    
+  }
+  
+
+   footer {
+    font-size: 10px;
+    text-align: center;
+  }
+
+  ol {
+    text-align: center;
+  }
+  
+  ul {
+    text-align: center;
+  }
