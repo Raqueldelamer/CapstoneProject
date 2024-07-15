@@ -13,9 +13,16 @@ My Capstone Project will be a website of my photography with a description of my
 ## Roadmap
 
 - [x] My plan
-- [ ] Don't have to be complete.
-- [ ] Just the main ideas.
-- [ ] Add more as you go.
+- [x] Wireframe
+- [x] HTML
+- [x] CSS
+- [x] Bootstrap
+- [x] Javascript
+- [x] Functions
+- [x] Button on.Click
+- [ ] If Statements
+- [ ] Array Loop
+- [ ] Interview/Presentation
 
 ## Wireframe
 
@@ -30,3 +37,5 @@ Raquel raqueldelamer@gmail.com
 * [w3schools Cards](https://www.w3schools.com/bootstrap5/bootstrap_cards.php)
 * [w3schools Navs](https://www.w3schools.com/bootstrap5/bootstrap_navs.php)
 * [w3schools For Loops](https://www.w3schools.com/js/js_loop_for.asp)
+* [https://getbootstrap.com/docs/5.3/components/dropdowns/]
+* [https://getbootstrap.com/docs/5.3/components/carousel/#basic-examples]
