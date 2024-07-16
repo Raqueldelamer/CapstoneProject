@@ -12,7 +12,6 @@ My Capstone Project will be a website of my photography with a description of my
 
 ## Roadmap
 
-- [x] My plan
 - [x] Wireframe
 - [x] HTML
 - [x] CSS
@@ -21,7 +20,7 @@ My Capstone Project will be a website of my photography with a description of my
 - [x] Functions
 - [x] Button on.Click
 - [ ] If Statements
-- [ ] Array Loop
+- [x] Array Loop
 - [ ] Interview/Presentation
 
 ## Wireframe
