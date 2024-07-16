@@ -91,6 +91,14 @@ button {
     background-color: silver;
   
   }
+ 
+  .button-group {
+  width: 200px;
+  display: flex;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+ }
 
   .quote {
     width: 800px;
@@ -101,6 +109,15 @@ button {
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
+  }
+
+  .dropdown {
+    width: 180px;
+    display: flex;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+
   }
   
   .flex-container {

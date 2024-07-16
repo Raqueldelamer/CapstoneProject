@@ -16,7 +16,7 @@ function cartChecker() {
     // 1. check if the color is blue
     if(color === "blue") {
       // 2. give the message for blue
-      messageParagraph.innerHTML = `Are you feeling sad?`;
+      messageParagraph.innerHTML = `Are you feeling down?`;
     // 3. check for the next color
     } else if(color === "yellow") {
       // 4. give the message for yellow
