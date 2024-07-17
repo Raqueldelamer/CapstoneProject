@@ -21,7 +21,7 @@ My Capstone Project will be a website of my photography with a description of my
 - [x] Button on.Click
 - [x] If Statements
 - [x] Array Loop
-- [ ] Interview/Presentation
+- [x] Interview/Presentation (scheduled for 7/17/24 @ 8pm)
 
 ## Wireframe
 
