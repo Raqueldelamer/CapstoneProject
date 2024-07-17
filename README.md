@@ -19,7 +19,7 @@ My Capstone Project will be a website of my photography with a description of my
 - [x] Javascript
 - [x] Functions
 - [x] Button on.Click
-- [ ] If Statements
+- [x] If Statements
 - [x] Array Loop
 - [ ] Interview/Presentation
 

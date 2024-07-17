@@ -18,11 +18,11 @@ function partTwoA () {
   function partTwoB () {
     messageParagraph.innerHTML = "Cities";
   
-    // 1. Create an array of 4 cities
+    
   let cities = ["Paris", "New York", "New Orleans", "San Francisco"];
-    // 2. Find the length of the array
+   
     let highNumber = cities.length;
-    // 3. Create a for loop.
+  
     for (let i = 0; i < highNumber; i++) {
       alert(`The most photogenic city is ${cities[i]}`);
       // 4. give the user and alert with the current city.
