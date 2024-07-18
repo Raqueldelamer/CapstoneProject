@@ -9,6 +9,24 @@ function cartChecker() {
   
   cartButton.onclick = cartChecker;
 
+  function calculateTax() {
+    let price;
+    let taxPercent;
+    let tax;
+    price = prompt("What is the price of the item in your cart?");
+    taxPercent = prompt("What is the sales tax in your city? (enter in decimals. For example 10% would be 0.10");
+  
+   
+    let priceNumber = Number(price);
+    let taxPercentNumber = Number(taxPercent);
+    tax = priceNumber * taxPercentNumber;
+  
+    priceParagraph.innerHTML = `Your total bill is $${priceNumber}`;
+    taxParagraph.innerHTML = `The sales tax is $${tax} at ${taxPercentNumber*100}%.`;
+  }
+  
+  calculateButton.onclick = calculateTax;
+
   
   function songGuessingGame() {
     let userChoice;
@@ -18,7 +36,7 @@ function cartChecker() {
     userChoice = prompt("Enter the song");
 
     if( correctAnswer === userChoice ) {
-        alert("And the living is Easy..");
+        alert("..And the living is Easy..");
     } else {
         alert("Oops! Try again!")
     }
