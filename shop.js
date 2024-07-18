@@ -16,7 +16,7 @@ function cartChecker() {
     price = prompt("What is the price of the item in your cart?");
     taxPercent = prompt("What is the sales tax in your city? (enter in decimals. For example 10% would be 0.10");
   
-   
+    
     let priceNumber = Number(price);
     let taxPercentNumber = Number(taxPercent);
     tax = priceNumber * taxPercentNumber;
