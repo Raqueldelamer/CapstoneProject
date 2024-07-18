@@ -9,7 +9,7 @@ function partTwoA () {
   
     // Create a for loop.
     for (let i = 0; i < highNumber; i++) {
-      // give the user and alert with the current friend.
+      // give the user and alert with the current photographer
       alert(`My favorite photographer is ${photographers[i]}`);
     }
   }
