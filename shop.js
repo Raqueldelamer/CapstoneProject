@@ -28,16 +28,22 @@ function cartChecker() {
   calculateButton.onclick = calculateTax;
 
   
-  function songGuessingGame() {
+function songGuessingGame() {
     let userChoice;
     let correctAnswer;
     correctAnswer = "Summertime";
+    lowerCaseAnswer = "summertime";
     alert("What Gershwin song did Billie Holiday sing?");
-    userChoice = prompt("Enter the song");
+    userChoice = prompt("Take a guess..");
 
     if( correctAnswer === userChoice ) {
         alert("..And the living is Easy..");
-    } else {
+    } 
+
+    if ( lowerCaseAnswer === userChoice ) {
+        alert("..And the living is Easy..");
+    }
+    else {
         alert("Oops! Try again!")
     }
 }
